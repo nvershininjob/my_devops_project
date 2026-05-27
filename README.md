@@ -1,2 +1,2 @@
-# This is my first project with using git
+# This is my first project with using Git
 ## Autor: junior DevOps
